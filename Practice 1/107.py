@@ -1,6 +1,0 @@
-x=input()
-y=input()
-num1 = int(x)
-num2 = int(y)
-a = num1 % num2
-print(a)
